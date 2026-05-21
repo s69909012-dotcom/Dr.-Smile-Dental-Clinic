@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s69909012-dotcom.github.io/dr-smile-berhampur/sitemap.xml
